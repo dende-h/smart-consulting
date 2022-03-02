@@ -1,3 +1,6 @@
+# スマホ利用コンサルティング用のポータルアプリケーション
+　もっとスマホを安く便利に使いたい方に向けた情報を発信するポータルサイトです。
+
 # Example app with [chakra-ui](https://github.com/chakra-ui/chakra-ui) and TypeScript
 
 This example features how to use [chakra-ui](https://github.com/chakra-ui/chakra-ui) as the component library within a Next.js app with TypeScript.
